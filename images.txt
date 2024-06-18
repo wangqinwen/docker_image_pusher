@@ -1,7 +1,2 @@
-docker.io/tomcat:7-jre7
-docker.io/redis:latest
-docker.io/mysql:5
-docker.io/mysql:5.7
-mysqlimage:latest
-mysqlimagenginx:latest
+python:3.7.9
 
